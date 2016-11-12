@@ -1,0 +1,2 @@
+1. In BUBBLE IM tab, Gurutcs.com listview also contains bubble image, whereas in original it gurutcs.com domain not contain bubble information in DB.
+2. In delete Bubble option from long press in the Bubble IM listview. 
